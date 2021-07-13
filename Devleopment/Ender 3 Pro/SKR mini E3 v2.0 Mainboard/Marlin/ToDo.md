@@ -1,6 +1,6 @@
 # Tasks
 # RedRen Marlin-2.0.x for v0.000.2
-<i>Target system: Creality Ender 3 Pro with aftermarket BigTreeTech SKR mini E3 v2.0 main board. 
+<i>Target system: Creality Ender 3 Pro with aftermarket BigTreeTech SKR mini E3 v2.0 main board.</i>
 <br>
 <br>
 <br>
